@@ -225,4 +225,6 @@ aside[role="complementary"] {
   width: 31.25%;
 }
 ```
+### SASS With Grunt Notes
+https://www.saltycrane.com/blog/2015/02/customizing-bootstrap-sass-version-using-grunt-and-bower/
 
